@@ -1,0 +1,23 @@
+return {
+	-- "sphamba/smear-cursor.nvim",
+	-- opts = {
+	-- 	smear_between_buffers = false,
+	-- 	smear_between_neighbor_lines = true,
+	--
+	-- 	smear_insert_mode = false,
+	-- 	cursor_color = "#d3cdc3",
+	-- 	-- How fast the smear's head moves towards the target.
+	-- 	-- 0: no movement, 1: instantaneous
+	-- 	stiffness = 0.8,
+	--
+	-- 	-- How fast the smear's tail moves towards the target.
+	-- 	-- 0: no movement, 1: instantaneous
+	-- 	trailing_stiffness = 0.8,
+	--
+	-- 	legacy_computing_symbols_support = true,
+	-- 	transparent_bg_fallback_color = "#303030",
+	-- 	cterm_cursor_colors = { 240, 245, 250, 255 },
+	-- 	cterm_bg = 235,
+	-- 	time_interval = 2,
+	-- },
+}
